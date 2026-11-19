@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" fill="none">
+  <rect width="640" height="420" fill="#f6f8fa"/>
+  <rect x="1" y="1" width="638" height="418" rx="8" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="240" y="118" width="160" height="112" rx="8" stroke="#8c959f" stroke-width="8"/>
+  <circle cx="286" cy="158" r="13" fill="#8c959f"/>
+  <path d="m254 211 47-42 34 29 24-19 27 32H254Z" fill="#8c959f"/>
+  <text x="320" y="285" fill="#656d76" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">Replace with your image</text>
+</svg>
