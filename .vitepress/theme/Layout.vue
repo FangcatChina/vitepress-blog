@@ -5,9 +5,8 @@ const { page, site } = useData()
 
 const navigation = [
   { label: 'Home', href: '/', page: 'index.md' },
-  { label: 'Blog', href: '/blog', page: 'blog.md' },
-  { label: 'Contacts', href: '/contacts', page: 'contacts.md' },
-  { label: 'Devices', href: '/devices', page: 'devices.md' }
+  { label: 'Blog', href: '/blog', page: 'blog/index.md' },
+  { label: 'Contacts', href: '/contacts', page: 'contacts.md' }
 ]
 </script>
 
@@ -38,8 +37,8 @@ const navigation = [
           </a>
         </nav>
         <div class="sidebar-note">
-          <span class="status-dot" aria-hidden="true"></span>
-          <span>Building things on the web</span>
+          <span>Inspired by <a href="https://baoshuo.ren">baoshuo.ren</a></span>
+          <span><a href="https://icp.gov.moe/?keyword=20250976">萌ICP备20250976号</a></span>
         </div>
       </aside>
 

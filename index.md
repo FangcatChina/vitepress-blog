@@ -2,29 +2,38 @@
 home: true
 ---
 
-# Hello, I'm Fangcat_Dev
+# Hello, I'm **Fangcat_Dev**
 
-<p class="intro">Welcome to my corner of the internet. I'm a developer who enjoys building useful things, learning how systems work, and sharing the journey along the way.</p>
+I'm a high school senior interested in Linux and operating systems, aiming to improve the productivity and accessibility of Linux for everyone.
 
-Update this introduction with a little about yourself, what you do, and what you are interested in.
+> Again and again, casting a ghostly vote of dissent.
+>
+> —— *I* by Pingyang Lei
 
 ## Projects
 
-Add a few projects you are proud of. Replace each placeholder image with a screenshot or project image, then update the title and description.
+I'm currently working on these projects:
 
 <div class="portfolio-list">
   <section class="portfolio-card">
-    <img src="/placeholder.svg" alt="Project screenshot placeholder">
+    <img src="https://raw.githubusercontent.com/Vanilla-OS/desktop-base/refs/heads/main/emblems-vanilla/emblem-vanilla.svg" alt="Vanilla OS Logo">
     <div class="portfolio-card-copy">
-      <h3><a href="https://github.com/" target="_blank" rel="noreferrer">Project name</a></h3>
-      <p>Describe what the project does, what you contributed, and the tools or ideas that made it interesting.</p>
+      <h3><a href="https://vanillaos.org/" target="_blank" rel="noreferrer">Vanilla OS</a></h3>
+      <p>An immutable and reproducible Linux distro featuring stability and security.</p>
     </div>
   </section>
   <section class="portfolio-card">
-    <img src="/placeholder.svg" alt="Project screenshot placeholder">
+    <img src="https://codeberg.org/LinuxCabin/linux-handbook/raw/branch/main/images/LC.png" alt="LinuxCabin Handbook">
     <div class="portfolio-card-copy">
-      <h3><a href="https://github.com/" target="_blank" rel="noreferrer">Another project</a></h3>
-      <p>Use this space for another project, experiment, open-source contribution, or something you are currently building.</p>
+      <h3><a href="https://hb.linuxcabin.top/" target="_blank" rel="noreferrer">LinuxCabin Handbook</a></h3>
+      <p>A detailed Linux handbook for beginners.</p>
+    </div>
+  </section>
+  <section class="portfolio-card">
+    <img src="/bilibili.svg" alt="LinuxCabin">
+    <div class="portfolio-card-copy">
+      <h3><a href="https://space.bilibili.com/588672425" target="_blank" rel="noreferrer">Bilibili Videos</a></h3>
+      <p>Making videos about operating systems and technologies.</p>
     </div>
   </section>
 </div>
